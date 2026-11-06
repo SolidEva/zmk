@@ -164,7 +164,7 @@ uint8_t zmk_backlight_calc_brt_cycle(void) {
 }
 
 int zmk_led_on(uint32_t led) {
-  return led_set_brightness(backlight_dev, led, 20);
+  return led_set_brightness(backlight_dev, led, 1);
 }
 
 
