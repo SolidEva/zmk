@@ -101,7 +101,7 @@ bindings = <
       &kp A     &kp S     &kp D     &kp F      &kp G                                               &kp H     &kp J     &kp K     &kp L     &kp SEMI
       &kp Z     &kp X     &kp C     &kp V      &kp B                                               &kp N     &kp M     &kp COMMA &kp DOT   &kp FSLH
       &kp N0     &kp N1   &kp N2                                                                                       &kp N3  &kp N4      &kp N5
-                                  &kp LSHFT    &kp SPC   &kp ESC                      &kp BSPC  &kp LSHFT  &kp RALT
+                                  &kp LSHFT    &kp SPC   &kp ESC                      &kp BSPC  &kp LSHFT  &kp ENTER
                                               &kp LCTRL &kp TAB                       &kp TAB   &mo GAME_FN_L
             >;
         };
